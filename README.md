@@ -59,9 +59,9 @@ Siap bekerja full-time dan sistem shift.
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=gadingislami12&show_icons=true&theme=tokyonight" />
-</p>
+</p> -->
 
 ---
 
